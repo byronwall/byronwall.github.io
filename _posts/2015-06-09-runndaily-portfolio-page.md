@@ -1,7 +1,7 @@
 ---
 published: true
 title: runnDAILY portfolio page
-layout: article
+layout: post
 category: blog
 ---
 
@@ -19,7 +19,7 @@ The server side include included:
  - I built a templating system that used Smarty style tags to process the data into HTML or JSON data.  This templating engine was fairly powerful and had the feature that all the cascading levels were parsed into a single executable PHP file that was included after the page routing code ran.  This kept things fast and reduced server side file loading all the time.
  - MySQL database with no frills.  We used a large number of many to many table relationships to manage the site permissions and user relationships.
  - Subversion for version control which made deploying updates nice.
- 
+
 Client side featured:
 
  - Heavy AJAX usage to load map or route data

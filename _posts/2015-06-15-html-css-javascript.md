@@ -1,7 +1,7 @@
 ---
 published: true
 title: HTML / CSS / JavaScript
-layout: article
+layout: post
 category: blog
 ---
 
@@ -17,13 +17,13 @@ mathPAD is an ongoing project which provides a blank page to perform math and ot
  - Units are handled internally as variable definitions so they can be passed around as needed
  - Ability to define functions which take parameters.  These can also return with or without units.
  - Click anywhere and type allows for rapid conversion of numbers and quick testing as a math scratch pad.
- 
+
 I hope in the future to expand mathPAD to allow for:
 
  - Additional units and the ability to save and define unit sets (including possible default outputs)
  - Visualization and graphics by integrating with d3 or another framework
  - Ability to save and reload previous files.  This also prevents some of the benefit of a stateless scratch pad, but it might be nice to save a common file.
- 
+
 ###d3 Visualizations
 I have been interested in d3 since it was created and I started seeing examples of its output.  It's impressive how little code is required to get a rich visualziation.  In order to get experience with this library, I have used it for a couple of applications:
 

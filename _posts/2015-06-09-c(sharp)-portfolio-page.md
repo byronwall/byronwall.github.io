@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 published: true
 title: C(sharp) portfolio page
 category: blog
@@ -20,13 +20,13 @@ This was a side project built mostly to experiment with WPF.  It dialed in to th
  - program had an updater that could run alongside and pull down fresh updates
  - maintained its own database of songs that were played and provided some analytics of that data (this never got as far as I hoped)
  - made extensive use of templates and data binding to get a web like interface
- 
+
 ##block game solver via genetic algorithm
 There is a game out there that I always loved to play.  It still exists in some version: touch a colored group of blocks and they disappear.  The surrounding blocks fall vertically and usually close horizontal gaps when a column is cleared. Rinse and repeat until the board is clear or only single colors remain.  I also used to think I was good at this game until I built this progam which could find near optimal solutions using genetic algorithms.  This program will get revitalized and ported over to a web solution so that I can do some intersting d3 visualizations with it.
 
 ##Excel Interop work
 With a strong background in Excel / VBA programming, it is fairly natural to also tend to use the Excel Interop libraries when the chance arises.  Most recently, I have just been using that knowledge to answer questions on Stack Overflow, but I have also written real code in this realm.  The most recent example was a helper tool at the plant which processed scraped some HTML and sent the data to Excel.  It was the basis for a visualization helper in Excel.  The HTML probably could have been scraped from VBA, but I never thought of it at the time.
- 
+
 ##countless utilities
 Barely worth mentioning all of the utility code that has been written over the years (but I will):
 

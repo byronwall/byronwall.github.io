@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Setting up this blog
 category: blog
 ---

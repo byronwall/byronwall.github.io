@@ -1,7 +1,7 @@
 ---
 published: true
 title: Java and Spring RTS AI
-layout: article
+layout: post
 category: blog
 ---
 
@@ -15,8 +15,8 @@ Current feautres of the AI include:
 
  - Good plumping to allow for timed events and behind the scenes of updating internal models.
  - Decent understanding of the tech ladder for Balanced Annihilation which ensures a progression to more advanced units
- 
- 
+
+
 What's left to be done:
 
  - Everything else?

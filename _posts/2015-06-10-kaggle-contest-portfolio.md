@@ -1,7 +1,7 @@
 ---
 published: true
 title: Kaggle contest portfolio
-layout: article
+layout: post
 category: blog
 ---
 
