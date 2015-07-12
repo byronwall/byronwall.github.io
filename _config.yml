@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            byroni.us
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
@@ -26,22 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  name: Byron Wall
+  avatar: byron-wall.jpg
+  bio: "Avid programmer playing chemical engineer."
+  email: byron@byroni.us
+  disqus-shortname:
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: byronwall
+  stackoverflow: http://stackoverflow.com/users/4288101/byron-wall
   linkedin: #username
   xing: #username
   instagram: #username
