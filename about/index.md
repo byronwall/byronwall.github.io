@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, responsive]
 ---
 
 ##bio
-I am a Chemical Engineer by degree and experience and have always had a passion for programming.  In the engineering environment, I program to solve problems, automate common tasks, and visualize and analyze data.  Beyond engineering, I love programming to solve problems, to try new technologies, and to scratch an intellectual itch.
+I am a Chemical Engineer by degree and experience and have a passion for programming.  In the engineering environment, I program to solve problems, automate common tasks, and visualize and analyze data.  Beyond engineering, I love programming to solve problems, to try new technologies, and to scratch an intellectual itch.
 
 There was a brief period at Purdue where I contemplated going all-in on programming.  I built a running website, runnDAILY, with my brother Chandler.  If I didn't get a job in Houston making plastic, I would have gone down that path.
 
@@ -37,6 +37,10 @@ This list includes anything I could sit down with today and start typing.  I am 
  - R
    - Have been using R lately for Kaggle contests. They are a good introduction to the language and modeling techniques.
    - ggplot2 is a great way to get crisp graphics from a large dataset.  I have found it easier than Excel for certain types of graphics.
+ - SQL
+   - Used MySQL to run the runnDAILY site and all side projects when working with PHP
+   - SQLite has been useful for small C# and Java projects where a single file database is needed to store data.
+   - Interacted with Oracle databases as well for pulling quality data at the plant.
 
 ###have used
 This list includes those technologies that I did more than nothing but less than a lot.  With a reference book and 30 Stackoverflow tabs, I could type, erase, curse, retype and ultimately reach a target.
