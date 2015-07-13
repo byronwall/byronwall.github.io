@@ -11,7 +11,7 @@ There was a brief period at Purdue where I contemplated going all-in on programm
 
 This site exists to catalog the experience I have, ongoing projects, and hopefully solve a problem or two with an ongoing blog.  I contemplate programming full time so this site is both an exhibition of my work and a place to scratch the itch.
 
-##skills
+##skills / experience
 I have been involved in programming since I was 14.  Back then (ca. 2002), I was using yahoo (?) over 28k dialup to answer questions like: ``"how to make an .exe?"``.  These queries went nowhere so I tried out the local library to find a book to answer that question.  I started with a book on Java.  When I went back to get another one, I mistakenly grabbed a book on Javascript thinking there was no difference.  That's how I got my first taste of doing desktop and web.
 
 Since then, I have dabbled in most popular languages.  I list them here by experience level.  For specific projects, check out the projects page for a more descriptive listing of what was created.  The code for anything mentioned is over on GitHub.
@@ -47,7 +47,7 @@ This list includes those technologies that I did more than nothing but less than
 
  - Java
    - Built a Spring RTS AI for Balanced Annihilation using Java.
-   - Way back when  I learned how to program with Java by making a progrma that could calculate molecular weights of compounds.
+   - Way back when  I learned how to program with Java by making a program that could calculate molecular weights of compounds.
  - Python
    - Used Python at Purdue for a couple of physics classes and side projects.  Looking for a good project to get going here.  Almost did the Kaggle competitions with Python but really wanted to learn R instead.
  - C
