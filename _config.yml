@@ -35,7 +35,7 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-63893175-1
     verify:
     ad-client:
     ad-slot:
@@ -56,6 +56,29 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+
+#prose config
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://byroni.us'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "text"
+          label: "layout"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "category"
+        field:
+          element: "text"
+          label: "category"
+          value: "blog"
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
