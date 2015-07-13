@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 title: "convert SVN to GitHub on an old, dead repo"
 layout: post
 category: blog
 ---
+
 
 The recent goal has been to move as much source code over to GitHub as possible.  For more recent code, I was using Git anyways, so it was simple.  For older code, I was previosuly using Subversion with locally hosted repos.  It's been years since the server was running so the question was: how to get these repos over to GitHub?  Fortunately, I keep all the original repo folders on an old drive and was able to copy them over to a newer drive for processing.
 
