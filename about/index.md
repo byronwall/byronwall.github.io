@@ -18,6 +18,7 @@ Since then, I have dabbled in most popular languages.  I list them here by exper
 
 ###know and use(d) regularly
 This list includes anything I could sit down with today and start typing.  I am currently (or previously was) working with these technologies on a regular basis.  I am reasonably able to answer Stackoverflow questions on these topics.
+
  - C#
    - C# is a solid choice in the corporate group policy world because it exists and runs on nearly every Windows computer.
    - Experience with WinForms and WPF on the desktop side of things
@@ -39,6 +40,7 @@ This list includes anything I could sit down with today and start typing.  I am 
 
 ###have used
 This list includes those technologies that I did more than nothing but less than a lot.  With a reference book and 30 Stackoverflow tabs, I could type, erase, curse, retype and ultimately reach a target.
+
  - Java
    - Built a Spring RTS AI for Balanced Annihilation using Java.
    - Way back when  I learned how to program with Java by making a progrma that could calculate molecular weights of compounds.
@@ -53,4 +55,5 @@ This list includes those technologies that I did more than nothing but less than
 
 ###have seen
 This final list includes technologies that I have seen and possibly read some code.  I include it to shamelessly pad the list a little and make explicit (by omission) all those technologies that I have never dealt with (F# anyone?).
+
  - LISP, Ruby, PERL, C++, VB.NET
