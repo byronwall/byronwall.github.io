@@ -57,9 +57,14 @@ owner:
   flickr: #username
   codepen: #username
 
+#collections
+collections:
+  projects:
+    output: true
+
 #prose config
 prose:
-  rooturl: 
+  rooturl:
   siteurl: 'http://byroni.us'
   metadata:
     _posts:
