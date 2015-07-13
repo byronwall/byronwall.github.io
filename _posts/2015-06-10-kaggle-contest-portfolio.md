@@ -2,7 +2,7 @@
 published: true
 title: Kaggle contest portfolio
 layout: post
-category: blog
+category: project
 ---
 
 ## Kaggle Contests

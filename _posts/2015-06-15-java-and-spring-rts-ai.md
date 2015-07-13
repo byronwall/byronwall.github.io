@@ -2,7 +2,7 @@
 published: true
 title: Java and Spring RTS AI
 layout: post
-category: blog
+category: project
 ---
 
 

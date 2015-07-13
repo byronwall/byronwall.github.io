@@ -2,7 +2,7 @@
 published: true
 title: HTML / CSS / JavaScript
 layout: post
-category: blog
+category: project
 ---
 
 ## Web work

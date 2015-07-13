@@ -12,7 +12,7 @@ Add a little bit of starter info to the `\_config.yml` file. **Don't accidentall
 
 Cloned a copy of the repository to a local directory to avoid creating everything in the web interface.  Using Git Hub for Windows saves a lot of hassle over the other interfaces available.
 
-Created a posts folder with a ~~blog subfolder~~.  Do not create the subfolders for this.  Instead use the `cateogry` tag inside the front matter to create the permalink to _look_ like a subfolder.
+Created a posts folder with a blog subfolder.  Do not create the subfolders for this.  Instead use the `cateogry` tag inside the front matter to create the permalink to _look_ like a subfolder.
 
 Moved an image over for the teaser.  Link here does not need to include `/images/`, just the file name.
 

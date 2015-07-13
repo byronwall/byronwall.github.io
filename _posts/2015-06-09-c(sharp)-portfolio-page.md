@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: C(sharp) portfolio page
-category: blog
+category: project
 ---
 
 
