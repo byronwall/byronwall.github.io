@@ -7,7 +7,7 @@ tags: [about, Jekyll, theme, responsive]
 ##bio
 I am a Chemical Engineer by degree and experience and have a passion for programming.  In the engineering environment, I program to solve problems, automate common tasks, and visualize and analyze data.  Beyond engineering, I love programming to solve problems, to try new technologies, and to scratch an intellectual itch.
 
-There was a brief period at Purdue where I contemplated going all-in on programming.  I built a running website, runnDAILY, with my brother Chandler.  If I didn't get a job in Houston making plastic, I would have gone down that path.
+There was a brief period at Purdue where I contemplated going all-in on programming.  I built a running website, runnDAILY, with my brother Chandler.  If I didn't get a job in Houston making plastic, I would have gone down that path.  After suffering the heat in Houston for too long, I am now in beautiful Denver, CO.
 
 This site exists to catalog the experience I have, ongoing projects, and hopefully solve a problem or two with an ongoing blog.  I contemplate programming full time so this site is both an exhibition of my work and a place to scratch the itch.
 

@@ -1,12 +1,12 @@
 ---
 published: true
-title: HTML / CSS / JavaScript
+title: HTML / CSS / JavaScript Projects
 layout: post
 category: project
 ---
 
 ## Web work
-This is a rough summary of the variou web based projects that I have completed over the years.  I have a passion for trying out whatever new technology is out there.  Usually a new framework or library makes a previous project much more doable, and it's a good excuse to finish a project and learn something new.
+This is a rough summary of the various web based projects that I have completed over the years.  I have a passion for trying out whatever new technology is out there.  Usually a new framework or library makes a previous project much more doable, and it's a good excuse to finish a project and learn something new.
 
 My major web project was the runnDAILY website which is written up elsewhere.  These other projects focused on other aspects of web development.
 
@@ -27,5 +27,5 @@ I hope in the future to expand mathPAD to allow for:
 ###d3 Visualizations
 I have been interested in d3 since it was created and I started seeing examples of its output.  It's impressive how little code is required to get a rich visualziation.  In order to get experience with this library, I have used it for a couple of applications:
 
- - Visualization for monitoring variables in a process diagram and coloring/sizing the lines and shapes with the data involved.  This is a part of a larger project to provide better data visualziation software for process based industries.
- - Created a map of all the locations that I visted in the summer of 2014 when I left Houston and moved to Denver.  I used d3 to render the map, routes, and cities that we visited.  This included shading for states that we visited and drawing the route in the correct order.
+ - Visualization for monitoring variables in a process diagram and coloring/sizing the lines and shapes with the data involved.  This is a part of a larger project to provide better data visualization software for process based industries.
+ - Created a map of all the locations that I visited in the summer of 2014 when I left Houston and moved to Denver.  I used d3 to render the map, routes, and cities that we visited.  This included shading for states that we visited and drawing the route in the correct order.

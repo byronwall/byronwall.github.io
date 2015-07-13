@@ -1,6 +1,6 @@
 ---
 published: true
-title: Kaggle contest portfolio
+title: Kaggle and R Projects
 layout: post
 category: project
 ---

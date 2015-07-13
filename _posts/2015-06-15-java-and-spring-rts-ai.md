@@ -1,6 +1,6 @@
 ---
 published: true
-title: Java and Spring RTS AI
+title: Java Project: Spring RTS AI
 layout: post
 category: project
 ---

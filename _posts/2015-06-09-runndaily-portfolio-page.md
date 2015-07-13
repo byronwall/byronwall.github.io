@@ -1,8 +1,8 @@
 ---
 published: true
-title: runnDAILY portfolio page
+title: runnDAILY
 layout: post
-category: blog
+category: project
 ---
 
 
