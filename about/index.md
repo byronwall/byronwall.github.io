@@ -17,7 +17,7 @@ I have been involved in programming since I was 14.  Back then (ca. 2002), I was
 Since then, I have dabbled in most popular languages.  I list them here by experience level.  For specific projects, check out the projects page for a more descriptive listing of what was created.  The code for anything mentioned is over on GitHub.
 
 ###know and use(d) regularly
-This list includes anything I could sit down with today and start typing.  I am currently (or previously was) working with these technologies on a regular basis.  I am reasonably able to answer Stackoverflow questions on these topics.
+This list includes anything I could sit down with today and start typing.  I am currently (or previously was) working with these technologies on a regular basis.  I am reasonably able to answer Stack Overflow questions on these topics.
 
  - C#
    - C# is a solid choice in the corporate group policy world because it exists and runs on nearly every Windows computer.
@@ -43,7 +43,7 @@ This list includes anything I could sit down with today and start typing.  I am 
    - Interacted with Oracle databases as well for pulling quality data at the plant.
 
 ###have used
-This list includes those technologies that I did more than nothing but less than a lot.  With a reference book and 30 Stackoverflow tabs, I could type, erase, curse, retype and ultimately reach a target.
+This list includes those technologies that I did more than nothing but less than a lot.  With a reference book and 30 Stack Overflow tabs, I could type, erase, curse, retype and ultimately reach a target.
 
  - Java
    - Built a Spring RTS AI for Balanced Annihilation using Java.
