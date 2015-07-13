@@ -41,7 +41,7 @@ owner:
     ad-slot:
   bing-verify:
   github: byronwall
-  stackoverflow: http://stackoverflow.com/users/4288101/byron-wall
+  stackoverflow: 4288101/byron-wall
   linkedin: #username
   xing: #username
   instagram: #username
@@ -59,7 +59,7 @@ owner:
 
 #prose config
 prose:
-  rooturl: '_posts'
+  rooturl: 
   siteurl: 'http://byroni.us'
   metadata:
     _posts:
