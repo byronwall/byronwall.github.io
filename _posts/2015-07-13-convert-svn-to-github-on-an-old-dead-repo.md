@@ -16,7 +16,7 @@ The first approach followed the steps in [this write-up](http://john.albin.net/g
 
 ##Round 2: let GitHub take care of it
 
-The second approach was using the import feature on GitHub.  In order to get this going, I needed to expose `svnserve` to the outside world.  After repurposing `home.byroni.us` for this cause, I was able to get GitHub to recognize the repo.  Note that to make this work I used `svn://home.byroni.us:3690`.  It did not work with `http://` at the front.
+The second approach was using the [import feature on GitHub](https://import.github.com/new).  In order to get this going, I needed to expose `svnserve` to the outside world.  After repurposing `home.byroni.us` for this cause, I was able to get GitHub to recognize the repo.  Note that to make this work I used `svn://home.byroni.us:3690`.  It did not work with `http://` at the front.
 
 This approach is much easier because it allows you to redfine the authors while it processes the repo instead of going through a text file.
 
