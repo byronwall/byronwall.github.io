@@ -5,8 +5,7 @@ title: C# Projects
 category: project
 ---
 
-##Summary
-Most of my C# work has been done on the side to solve small and interesting problems, general utility helpers at work, and one or two serious programs.
+I have used C# to solve small and interesting problems, general utility helpers at work, and a handful of more serious programs.
 
 ##Process Data Gatherer to Replace FTP
 In my first internship, I built a C# program to gather process historian data to replace an old school mainframe request and FTP system.  The program was built to look at archive files stored on the intranet (backups of historian data) and process then to yield the desired data.  Information was stored per tag and read from the raw storage format.  This required a fairly nasty conversion from one style of float storage to modern day float storage.  Once the data was pulled into the program it was plotted using Microsoft Charts. There was also an option to export the data to Excel via Interop with some of the formatting and analysis handled on the transfer.
@@ -30,7 +29,7 @@ There is a game out there that I always loved to play.  It still exists in some 
 With a strong background in Excel / VBA programming, it is fairly natural to also tend to use the Excel Interop libraries when the chance arises.  I have been used that knowledge to answer questions on Stack Overflow and have also written real code in this realm.  The most recent example was a helper tool at the plant which processed scraped some HTML and sent the data to Excel.  It was the basis for a visualization helper in Excel.  The HTML probably could have been scraped from VBA, but I never thought of it at the time.
 
 ##countless utilities
-Barely worth mentioning all of the utility code that has been written over the years (but I will):
+Barely worth mentioning all of the utility code that has been written over the years (but I will!):
 
  - file watching programs to track changes on networked locations
  - `Timer` based programs to do who knows what at this point (I used to love putting these in the system tray to just check things)
