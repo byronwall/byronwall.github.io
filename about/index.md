@@ -6,7 +6,7 @@ tags: [about, Jekyll, theme, responsive]
 
 I am a Chemical Engineer by degree and experience and have a passion for programming.  In the engineering environment, I program to solve problems, automate common tasks, and visualize and analyze data.  Beyond engineering, I program to solve problems, try new technologies, and scratch an intellectual itch.
 
-This site exists to catalog my experience, ongoing projects, and document a problem or two with an ongoing blog.  I am interested in programming full time (i.e. employment) so this site is an exhibition of my skills to that end.
+This site exists to catalog my experience, ongoing projects, and document a problem or two with a blog.  I am interested in programming full time (i.e. employment) so this site is an exhibition of my skills to that end.
 
 ##skills / experience
 I have been involved in programming since I was 14.  Back then (ca. 2002), I was using yahoo! over 28k dialup to answer questions like: ``"how to make an .exe?"``.  These queries went nowhere so I hit the library to find a book on the topic.  I started with a book on Java.  When I went back to get another one, I mistakenly grabbed a book on Javascript, not knowing there was a difference.  Since then, I've enjoyed both web and desktop development!
