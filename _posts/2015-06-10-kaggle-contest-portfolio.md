@@ -5,7 +5,6 @@ layout: post
 category: project
 ---
 
-## Kaggle Contests
 I have competed in a couple of Kaggle contests in order to learn R and work on real world data sets.  I entered both the Telemetry challenge and also the Otto Classification challenge.  In both of these projects, I learned a great deal about how to properly use R and document work.  It is easy in a exploratory setting to make a mess of a workspace.  I am currently applying those techniques to 2 ongoing Kaggle contests and will post code when they are completed.
 
 ## Telemetry challenge

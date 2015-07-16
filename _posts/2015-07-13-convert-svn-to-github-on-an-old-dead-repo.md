@@ -5,8 +5,7 @@ layout: post
 category: blog
 ---
 
-
-The recent goal has been to move as much source code over to GitHub as possible.  For more recent code, I was using Git anyways, so it was simple.  For older code, I was previosuly using Subversion with locally hosted repos.  It's been years since the server was running so the question was: how to get these repos over to GitHub?  Fortunately, I keep all the original repo folders on an old drive and was able to copy them over to a newer drive for processing.
+The recent goal has been to move as much source code over to GitHub as possible.  For more recent code, I was using Git anyways, so it was simple.  For older code, I was previously using Subversion with locally hosted repos.  It's been years since the server was running so the question was: how to get these repos over to GitHub?  Fortunately, I keep all the original repo folders on an old drive and was able to copy them over to a newer drive for processing.
 
 There are two ways that I ended up doing it.  The second was far easier than the first:
 
@@ -18,6 +17,6 @@ The first approach followed the steps in [this write-up](http://john.albin.net/g
 
 The second approach was using the [import feature on GitHub](https://import.github.com/new).  In order to get this going, I needed to expose `svnserve` to the outside world.  After repurposing `home.byroni.us` for this cause, I was able to get GitHub to recognize the repo.  Note that to make this work I used `svn://home.byroni.us:3690`.  It did not work with `http://` at the front.
 
-This approach is much easier because it allows you to redfine the authors while it processes the repo instead of going through a text file.
+This approach is much easier because it allows you to define the authors while it processes the repo instead of going through a text file.
 
-For the cost of exposing `svnserve` to the outside world, this second approach was far prefered.  It handled a much larger repo faster than the other method.
+For the cost of exposing `svnserve` to the outside world, this second approach was far preferred.  It handled a much larger repo faster than the other method.

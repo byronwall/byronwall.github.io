@@ -5,11 +5,13 @@ layout: post
 category: project
 ---
 
+runnDAILY was a website that mapped and traced outdoor fitness activities.  I created it with Chandler Wall back when we were at Purdue.  At the time we were both fairly serious runners (and might still claim to be) and were underwhelmed with the fitness tracking websites.  This was circa 2009 when the iPhone was new and my Windows Phone had a slide out keyboard.  We recognized a need for an outdoor fitness tracker that we actually wanted to use.  At the time MapMyRun was the only serious web site trying this.
+
+The site was up and running for 3 years and saw 2 major updates over that time.  Interest in developing the site languished once we both got full time jobs, but we did push one major update after we graduated.  It was rewarding to have a real site out on the internet.
+
+##Features
+
 [**Source on GitHub**](https://github.com/byronwall/runnDAILY)
-
-runnDAILY was a website that I created with Chandler Wall back when we were at Purdue.  At the time we were both fairly serious runners (and might still claim to be) and were underwhelmed with the fitness tracking websites.  This was circa 2009 when the iPhone was new and my Windows Phone had a slide out keyboard (and stylus in the antenna).  We recognized a need for an outdoor fitness tracker that we actually wanted to use.  At the time MapMyRun was the only serious web site trying this.
-
-The site was up and running for 3 years and saw 2 major updates over that time.  Interest in developing the site languished once we both got full time jobs.  It was good work to have a real site out on the internet.
 
 The site was built on a LAMP stack although we developed on Windows.  It's core features were a combination of standard server side DB CRUD and client side interactivity via Javascript, including Google Maps integration.
 
