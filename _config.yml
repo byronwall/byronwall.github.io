@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: byronwall
   stackoverflow: 4288101/byron-wall
-  linkedin: #username
+  linkedin: byronwall
   xing: #username
   instagram: #username
   lastfm: #username
@@ -56,6 +56,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+  kaggle: byronwall
 
 #prose config
 prose:
