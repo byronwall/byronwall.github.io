@@ -2,6 +2,8 @@
 layout: home
 excerpt: "Personal site of Byron Wall, chemical engineer and programmer."
 title: Byron Wall
+image:
+  feature: site-image.jpg
 ---
 
 This is the personal site of Byron Wall, chemical engineer and programmer.  It includes a blog, portfolio and bio section.
