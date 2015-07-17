@@ -9,7 +9,7 @@ I am a Chemical Engineer by degree and experience and have a passion for program
 This site exists to catalog my experience, ongoing projects, and document a problem or two with a blog.  I am interested in programming full time (i.e. employment) so this site is an exhibition of my skills to that end.
 
 ##skills / experience
-I have been involved in programming since I was 14.  Back then (ca. 2002), I was using yahoo! over 28k dialup to answer questions like: ``"how to make an .exe?"``.  These queries went nowhere so I hit the library to find a book on the topic.  I started with a book on Java.  When I went back to get another one, I mistakenly grabbed a book on Javascript, not knowing there was a difference.  Since then, I've enjoyed both web and desktop development!
+I have been involved in programming since I was 14.  Back then (ca. 2002), I was using yahoo! over 28k dialup to answer questions like: ``"how to make an .exe?"``.  These queries went nowhere so I hit the library to find a book on the topic.  I started with a book on Java.  When I went back to get another one, I mistakenly grabbed a book on JavaScript, not knowing there was a difference.  Since then, I've enjoyed both web and desktop development!
 
 I have dabbled in most popular languages and list them here by experience level.  For specific projects, check out the projects page for a more descriptive listing of what was created.  Most of the code for is over on GitHub if I still have it.
 
@@ -25,7 +25,7 @@ This list includes anything I could sit down with today and start typing.  I am 
  - [PHP](/project/runndaily-portfolio-page/)
    - PHP used to be my go to for web development but now is avoided like the plague.  It's a shame jQuery copied the `$` because it was such a drag typing that all the time.
    - runnDAILY was built from scratch with PHP on the backend.  This included building an MVC framework and templating engine.
- - [Javascript / CSS / HTML](/project/html-css-javascript/)
+ - [JavaScript / CSS / HTML](/project/html-css-javascript/)
      - The front end web stack is where I have the most fun lately, mostly using d3 for data visualization.
      - When building runnDAILY, got to know the Google Maps library and JQuery.
  - [R](/project/kaggle-contest-portfolio/)

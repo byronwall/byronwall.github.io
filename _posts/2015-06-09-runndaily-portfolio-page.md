@@ -13,7 +13,7 @@ The site was up and running for 3 years and saw 2 major updates over that time. 
 
 [**Source on GitHub**](https://github.com/byronwall/runnDAILY)
 
-The site was built on a LAMP stack although we developed on Windows.  It's core features were a combination of standard server side DB CRUD and client side interactivity via Javascript, including Google Maps integration.
+The site was built on a LAMP stack although we developed on Windows.  It's core features were a combination of standard server side DB CRUD and client side interactivity via JavaScript, including Google Maps integration.
 
 The server side include included:
 
