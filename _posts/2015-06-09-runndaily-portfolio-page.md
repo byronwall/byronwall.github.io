@@ -9,6 +9,16 @@ runnDAILY was a website that mapped and traced outdoor fitness activities.  I cr
 
 The site was up and running for 3 years and saw 2 major updates over that time.  Interest in developing the site languished once we both got full time jobs, but we did push one major update after we graduated.  It was rewarding to have a real site out on the internet.
 
+##Images of design and features
+
+**Main index page**
+
+![runnDAILY main page](/images/posts/runnDAILY/index.png)
+
+**Route creation page**
+
+![runnDAILY route creation page](/images/posts/runnDAILY/routes.png)
+
 ##Features
 
 [**Source on GitHub**](https://github.com/byronwall/runnDAILY)
