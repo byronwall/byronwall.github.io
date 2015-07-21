@@ -8,7 +8,7 @@ category: project
 I have used C# to solve small and interesting problems, general utility helpers at work, and a handful of more serious programs.
 
 ##Process Data Gatherer to Replace FTP
-In my first internship, I built a C# program to gather process historian data to replace an old school mainframe request and FTP system.  The program was built to look at archive files stored on the intranet (backups of historian data) and process then to yield the desired data.  Information was stored per tag and read from the raw storage format.  This required a fairly nasty conversion from one style of float storage to modern day float storage.  Once the data was pulled into the program it was plotted using Microsoft Charts. There was also an option to export the data to Excel via Interop with some of the formatting and analysis handled on the transfer.
+In my first internship, I built a C# program to gather process historian data to replace an old school mainframe request and FTP system.  The program was built to look at archive files stored on the intranet (backups of historian data) and process them to yield the desired data.  Information was stored per tag and read from the raw storage format.  This required a fairly nasty conversion from one style of float storage to modern day float storage.  Once the data was pulled into the program it was plotted using Microsoft Charts. There was also an option to export the data to Excel via Interop with some of the formatting and analysis handled on the transfer.
 
 ##last.fm scrobbler
 [**Source on GitHub**](https://github.com/byronwall/last-fm-scrobbler)
