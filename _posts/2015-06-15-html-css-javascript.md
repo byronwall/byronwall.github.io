@@ -12,7 +12,7 @@ My major web project was the runnDAILY website [which is written up elsewhere](/
 ##mathPAD
 [**Source on GitHub**](https://github.com/byronwall/mathPAD)
 
-**Live version available at [http://byroni.us/mathPAD/](/mathPAD/)**
+**Live version** at [http://byroni.us/mathPAD/](/mathPAD/)
 
 mathPAD is an ongoing project which provides a blank page to perform math and other operations.  It was originally destined to be a web based replacement for MathCad.  It captured some of the features in MathCad, and I still have plans to extend it further. The most interesting aspect of mathCAD is its ability to parse all of the formulas and math on the page and evaluate the results correctly, including units for engineering calculations.  It has a couple of nice features:
 
