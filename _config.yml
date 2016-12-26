@@ -62,6 +62,7 @@ owner:
 prose:
   rooturl:
   siteurl: 'http://byroni.us'
+  media: 'images/posts'
   metadata:
     _posts:
       - name: "layout"
