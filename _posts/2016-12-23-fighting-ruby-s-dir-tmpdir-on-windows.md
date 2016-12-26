@@ -4,7 +4,7 @@ category: blog
 published: true
 title: Fighting Ruby's Dir.tmpdir on Windows
 ---
-## 500 Errors with tempfile
+## 500 errors while trying to use Tabula
 
 I was working recently with a PDF in [Tabula](http://tabula.technology/).  Previously, I have used Tabula to extract tables from PDFs.  It has worked great.  This time, I could not get Tabula to start processing the PDF.  Debugging the network request, gave a pointer about a temporary directory issue.
 
