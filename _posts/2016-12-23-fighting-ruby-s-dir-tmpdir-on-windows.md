@@ -8,7 +8,7 @@ title: Fighting Ruby's Dir.tmpdir on Windows
 
 I was working recently with a PDF in [Tabula](http://tabula.technology/).  Previously, I have used Tabula to extract tables from PDFs.  It has worked great.  This time, I could not get Tabula to start processing the PDF.  Debugging the network request, gave a pointer about a temporary directory issue.
 
-
+![Tabula upload error]({{site.baseurl}}/images/posts/2016-12-26_10-49-25.png)
 
 The error message was a bit cryptic since it only referred to the directory `/tmp` and did not give any indication of the full path for this directory.  The error message also does not give a file or line number so I went to the code to guess where it was failing.
 
@@ -18,6 +18,6 @@ I had previously dug into the AJAX request to know that it was POSTing a paramet
 
 Given that, it looked like there was an issue with `Tempfile` having a correct directory to output to.
 
-Checking the [docs of Tempfile](http://ruby-doc.org/stdlib-1.9.3/libdoc/tempfile/rdoc/Tempfile.html) you can see that it uses `Dir.tmpdir` as the output directory.  This can be controlled by an evironment variable `$TMPDIR`.  Checking my environment variables, I had nothing set for this.  I forced this variable to be equal to a directory `%USERPROFILE%/AppData/Local/Temp/tmp`.
+Checking the [docs of Tempfile](http://ruby-doc.org/stdlib-1.9.3/libdoc/tempfile/rdoc/Tempfile.html) you can see that it uses `Dir.tmpdir` as the output directory.  This can be controlled by an evironment variable `$TMPDIR`.  Checking my environment variables, I had nothing set for this.  I forced this variable to be equal to the directory `%USERPROFILE%/AppData/Local/Temp/tmp`, which I had just created.
 
 With this addition and a restart of Tabula, the files uploaded correctly.
