@@ -10,7 +10,7 @@ I was working recently with a PDF in [Tabula](http://tabula.technology/).  Previ
 
 ![Tabula upload error]({{site.baseurl}}/images/posts/2016-12-26_10-49-25.png)
 
-The error message was `(ENOENT) No such file or directory - /tmp`, which is a bit cryptic on Windows since it refers to a directory that is unlikely to exist.  The error message did not full path for this directory nor did it give a file or line number for the error in source.
+The error message was `(ENOENT) No such file or directory - /tmp`, which is a bit cryptic on Windows since it refers to a directory that is unlikely to exist.  The error message did not include the full path for this directory nor did it give a file or line number for the error in source.
 
 Since the issue is the AJAX request to  `upload.json`, I did a [search for that in the code](https://github.com/tabulapdf/tabula/search?utf8=%E2%9C%93&q=%22upload.json%22&type=Code).  You can see the two files that are returned are `tabula_web.rb` and `index.html`.  The latter is the front end UI, so I went to the [former file to spot the issue](https://github.com/tabulapdf/tabula/blob/92a23a1c1542cd082a3715ca847c2d1a532942df/webapp/tabula_web.rb#L178)
 
