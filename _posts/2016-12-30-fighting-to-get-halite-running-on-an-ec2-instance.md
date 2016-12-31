@@ -4,7 +4,7 @@ category: blog
 published: true
 title: Fighting to get Halite running on an EC2 instance
 ---
-I have been looking for an excuse to finally try out EC2.  I figured while testing Halite bots, I may as well let some poor computer in the cloud deal with the CPU cycles instead of the MBP on my lap.  Several hours later and I've got bots fighting in the cloud.  And turns out that the newest version of the bot is decent.  It was nothing short of a fight to get there though.  
+I have been looking for an excuse to finally try out EC2.  I figured while testing [Halite](https://halite.io/) bots, I may as well let some poor computer in the cloud deal with the CPU cycles instead of the MBP on my lap.  Several hours later and I've got bots fighting in the cloud.  And turns out that the newest version of the bot is decent.  It was nothing short of a fight to get there though.  
 
 Full disclouse: this was my first real foray into using Linux, SSH, SCP, remote connections, and most everything else required to get this going.  What follows is what happens when you approach a mildly complicated problem with that base level of understanding.
 
