@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Fighting to get Halite running on an EC2 instance
 ---
 I have been looking for an excuse to finally try out EC2.  I figured while testing Halite bots, I may as well let some poor computer in the cloud deal with the CPU cycles instead of the MBP on my lap.  Several hours later and I've got bots fighting in the cloud.  And turns out that the newest version of the bot is decent.  It was nothing short of a fight to get there though.  
