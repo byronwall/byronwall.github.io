@@ -9,11 +9,11 @@ The recent goal has been to move as much source code over to GitHub as possible.
 
 There are two ways that I ended up doing it.  The second was far easier than the first:
 
-##Round 1: `git svn clone` and some other steps
+## Round 1: `git svn clone` and some other steps
 
 The first approach followed the steps in [this write-up](http://john.albin.net/git/convert-subversion-to-git).  Overall, they worked as advertised.  In order to get a good URL for the `git svn clone` step, I started up an instance of `svnserve` to use `svn://localhost/` URL instead of `file:///`.  The `file:///` version gave an error about formats not matching.  See this [SO question](http://stackoverflow.com/questions/5113170/git-svn-is-unable-to-fetch-from-svn-repository) if you want the details.
 
-##Round 2: let GitHub take care of it
+## Round 2: let GitHub take care of it
 
 The second approach was using the [import feature on GitHub](https://import.github.com/new).  In order to get this going, I needed to expose `svnserve` to the outside world.  After repurposing `home.byroni.us` for this cause, I was able to get GitHub to recognize the repo.  Note that to make this work I used `svn://home.byroni.us:3690`.  It did not work with `http://` at the front.
 

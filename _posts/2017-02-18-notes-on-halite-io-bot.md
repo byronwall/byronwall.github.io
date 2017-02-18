@@ -12,7 +12,7 @@ The Halite.io contest was completed last week, and my bot finished 77th.  That's
 
 ### Things that went well
 
-####Early game path finding
+#### Early game path finding
 
 The game follows several distinct stages.  The first stage of the game includes making moves without having contacted an enemy yet.  In this stage, the game is essentially single player and deterministic.  In some sense, you could derive a cost function for game play and optimize it perfectly; there is no enemy to ruin your plans.
 

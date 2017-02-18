@@ -9,7 +9,7 @@ This is a rough summary of the various web based projects that I have completed 
 
 My major web project was the runnDAILY website [which is written up elsewhere](/project/runndaily-portfolio-page/).  These other projects focused on other aspects of web development.
 
-##mathPAD
+## mathPAD
 [**Source on GitHub**](https://github.com/byronwall/mathPAD)
 
 **Live version** at [http://byroni.us/mathPAD/](/mathPAD/)
@@ -27,7 +27,7 @@ I hope in the future to expand mathPAD to allow for:
  - Visualization and graphics by integrating with d3 or another framework
  - Ability to save and reload previous files.  This also prevents some of the benefit of a stateless scratch pad, but it might be nice to save a common file.
 
-##d3 Visualizations
+## d3 Visualizations
 I have been interested in d3 since it was created and I started seeing examples of its output.  It's impressive how little code is required to get a rich visualization.  In order to get experience with this library, I have used it for a couple of applications:
 
  - Visualization for monitoring variables in a process diagram and coloring/sizing the lines and shapes with the data involved.  This is a part of a larger project to provide better data visualization software for process based industries.

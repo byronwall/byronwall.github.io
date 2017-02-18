@@ -7,7 +7,7 @@ category: project
 
 Java is the first language I learned, and I have come back to it recently to build an AI for the Spring RTS platform.
 
-##Spring RTS AI
+## Spring RTS AI
 [**Source on GitHub**](https://github.com/byronwall/SpringBot)
 
 I grew up loving to play Total Annihilation and was always awed at how people created AIs for RTS games.  When I noticed Spring, my first thought was: when will I extend this to create my own AI.
