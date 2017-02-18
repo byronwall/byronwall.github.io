@@ -72,4 +72,3 @@ Another approach that was attmpted late was to use an agent based model in the a
 This approach did a pretty good job of moving squares out to the border and back filling for moves into the enemy.  I never programmed in heuristics for when to expand instead of attack so the bot... never expanded.  Go figure.  This bot ended up doing well on small maps or when it could quickly overcome the enemy.  As soon as expansion allowed for dwarfing early progress, this bot failed quickly.  This version of the bot got around the top 100.
 
 The upside of this approach is that every square was touched only once so it was blazing fast.
-
