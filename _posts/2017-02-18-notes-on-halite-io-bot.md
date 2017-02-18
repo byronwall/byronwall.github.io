@@ -1,10 +1,12 @@
 ---
 layout: post
 category: blog
-published: false
+published: true
 title: Notes on Halite.io bot
 ---
 ## Some comments on my Halite.io bot
+
+[post is a work in progress; publishing to force myself to update sooner]
 
 The Halite.io contest was completed last week, and my bot finished 77th.  That's a good showing but also meant there was room for improvement.  This post will comment on what the bot did well, avenues I tried that didn't bear fruit, and final thoughts on where I thought the bot could improve.
 
