@@ -3,6 +3,7 @@ layout: post
 published: true
 title: C# Projects
 category: project
+modified: 2020-10-17
 ---
 
 I have used C# to solve small and interesting problems, general utility helpers at work, and a handful of more serious programs.
