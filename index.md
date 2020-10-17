@@ -14,4 +14,4 @@ To learn more about my work, check out the [about me page](/about) or look at th
 
 Check out my [React](/project/react-portfolio/) and [C#](/project/c-sharp/) portfolios.
 
-For a quick look at a React project I made, check out the [HN Offline site](https://hn.byroni.us) or its [source on Github](https://github.com/byronwall/hn-client).
+For a quick look at a React project I made, check out the [HN Offline](https://hn.byroni.us) site or its [source on Github](https://github.com/byronwall/hn-client).
