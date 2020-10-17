@@ -48,7 +48,7 @@ The client is a SPA built in React. The bulk of the code is data management and 
 
 Built in Typescript.
 
-![Mobile screenshot](mobile.png)
+![HN Offline screenshot](https://raw.githubusercontent.com/byronwall/hn-client/master/mobile.png)
 
 ## Family Recipe and Cooking App (2020)
 
