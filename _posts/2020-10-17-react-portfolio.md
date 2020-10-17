@@ -1,6 +1,6 @@
 ---
 layout: post
-category: projects
+category: project
 published: true
 title: React Portfolio
 ---
