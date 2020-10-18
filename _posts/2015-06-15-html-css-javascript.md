@@ -34,6 +34,10 @@ I hope in the future to expand mathPAD to allow for:
 - Visualization and graphics by integrating with d3 or another framework
 - Ability to save and reload previous files. This also prevents some of the benefit of a stateless scratch pad, but it might be nice to save a common file.
 
+Example usage showing unit conversions and variable declaration
+
+![Example](/images/posts/mathpad.png)
+
 ## d3 Visualizations
 
 I have been interested in d3 since it was created and I started seeing examples of its output. It's impressive how little code is required to get a rich visualization. In order to get experience with this library, I have used it for a couple of applications:
