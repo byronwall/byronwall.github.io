@@ -35,18 +35,7 @@ This is a simple web app to read Hacker News comments by storing a local copy. A
   - Comment collapse state is stored in the current session.
     - If you leave a story and come back the comments will return to their previous state.
 
-### How It Works
-
-This is a simple web app. Server is built on Node and Express. There are two APIs which are consumed:
-
-- Official HN API, via Firebase - used to load front page list, story, and comment details
-- Algolia HN search results - for the top day and week stories
-
-The server has a simple timer which triggers every 10 minutes to check for updates for the front page. The day and week lists update less frequently. There's additional logic to only reload the comments for a story if enough time has elapsed from the previous update.
-
-The client is a SPA built in React. The bulk of the code is data management and controlling the view when comments are collapsed.
-
-Built in Typescript.
+View it [live](https://hn.byroni.us) or at [Github](https://github.com/byronwall/hn-client)
 
 ![HN Offline screenshot](https://raw.githubusercontent.com/byronwall/hn-client/master/mobile.png)
 
@@ -68,13 +57,13 @@ The client was just a simple interface for creating the playlists. The hardest p
 
 ## News Reader (2020)
 
-This app was a simple RSS reading application. It was built to play with the `newspaper` Python library. It was also a playground to test various Python server techniques since I was about to start something similar at work. The front end was built with the typical React setup.
+This app was a simple RSS reading application. It was built to play with the `newspaper` Python library. It was also a playground to test various Python server techniques since I was about to start something similar at work. The front end was built with the typical React setup. This site is really a simple RSS reader. When requesting content from an RSS feed, it relays that request through `newspaper` which downloads only the textual content of the article. This mostly works but quality varies by site.
 
-Features:
+Check it out [live](https://news.byroni.us) or on [Github](https://github.com/byronwall/news-project)
 
-- TODO: add this content
+![News list](/images/posts/news-list.png)
 
-Check it out on [Github](https://github.com/byronwall/news-project)
+![News story](/images/posts/news-story.png)
 
 ## Task List
 
@@ -82,4 +71,4 @@ Every programmer has to create a task list app! This is mine. There is an incomp
 
 Check it out on GitHub: [v1](https://github.com/byronwall/ElectronTasks) or [v2](https://github.com/byronwall/electron-tasks)
 
-TODO: add a screen shot
+![v1 screenshot](/images/posts/electron-task.png)
