@@ -1,6 +1,6 @@
 ---
 published: true
-title: HTML / CSS / JavaScript Projects
+title: JavaScript Projects (non React)
 layout: post
 category: project
 ---
