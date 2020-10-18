@@ -65,7 +65,7 @@ Check it out [live](https://news.byroni.us) or on [Github](https://github.com/by
 
 ![News story](/images/posts/news-story.png)
 
-## Task List
+## Task List (2017 - 2020)
 
 Every programmer has to create a task list app! This is mine. There is an incomplete v2 which is a port of the original v1 app. THe original was built with vanilla JS and without React using Electron. The second version was built with Typescript and React. The development experience is much nicer working on v2 with all the modern tooling and frameworks. Part way through v2 I realized there was not much reason to keep using Electron. At that point, I backed off development instead of removing Electron. I may at some point get this finished. Around the time I stopped development, I also changed how I was tracking tasks at work.
 
