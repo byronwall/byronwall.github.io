@@ -15,7 +15,7 @@ To provide a little better visualization of the possible commute times, I create
 
 To accomplish the description above, you could simply open a browser page with the various commutes loaded and refresh the page every 10 minutes.  For the first pass at this, that's exactly what I did.  After one day of doing that however, I realized this was a good chance to use a headless browser and automate the task.
 
-The full project is on Github (TODO: add link) and provides a description of how to use the tool.
+The full project is [on Github](https://github.com/byronwall/commute-snapshots) and provides a description of how to use the tool.
 
 On this site however, I'll point out a couple of observations from the experience and how I would handle a similar task in the future.
 
