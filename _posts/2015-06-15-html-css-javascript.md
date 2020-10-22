@@ -1,6 +1,6 @@
 ---
 published: true
-title: JavaScript Projects (non React)
+title: JavaScript Portfolio (non React)
 layout: post
 category: project
 date: 2020-10-20
