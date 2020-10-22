@@ -4,9 +4,7 @@ title: About Me
 tags: [about, Jekyll, theme, responsive]
 ---
 
-I am a Chemical Engineer by degree and experience and have a passion for programming. In the engineering environment, I program to solve problems, automate common tasks, and visualize and analyze data. Beyond engineering, I program to solve problems, try new technologies, and scratch an intellectual itch.
-
-This site exists to catalog my experience, ongoing projects, and document a problem or two with a blog. I am interested in programming full time (i.e. employment) so this site is an exhibition of my skills to that end.
+I am a Chemical Engineer by degree (Purdue 2010) and experience and have a passion for programming. In the engineering environment, I program to solve problems, automate common tasks, and visualize and analyze data. Beyond engineering, I program to solve problems, try new technologies, and scratch an intellectual itch.
 
 ## skills / experience
 
@@ -30,6 +28,8 @@ This list includes anything I could sit down with today and start typing. I am c
 - [JavaScript / CSS / HTML](/project/html-css-javascript/)
   - The front end web stack is where I have the most fun lately, mostly using d3 for data visualization.
   - When building runnDAILY, got to know the Google Maps library and JQuery.
+- Python
+  - Used Python at Purdue for physics classes and side projects. Looking for a good project to tackle here.
 - [R](/project/kaggle-contest-portfolio/)
   - Have been using R for Kaggle contests to do analysis and visualization (ggplot2).
 - SQL
@@ -43,10 +43,10 @@ This list includes anything I could sit down with today and start typing. I am c
 This list includes those technologies that I did more than nothing but less than a lot. With a reference book and 30 Stack Overflow tabs, I could type, erase, curse, retype and ultimately put together decent code.
 
 - [Java](/project/java-and-spring-rts-ai/)
+
   - Built a Spring RTS AI for Balanced Annihilation using Java.
   - Way back I learned Java by making a program that calculated molecular weights of compounds.
-- Python
-  - Used Python at Purdue for physics classes and side projects. Looking for a good project to tackle here.
+
 - C
   - Everyone uses C at some point, right? I used it at Purdue for a couple of classes.
 - Fortran
