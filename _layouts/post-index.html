@@ -50,7 +50,7 @@
           <p>
             {{ post.excerpt | strip_html | truncate: 160 }}
             <br />
-            <span>{{ post.date | date: '%B %Y' }}</span>
+            <span><i> {{ post.date | date: '%B %Y' }} </i> </span>
           </p>
           {% endif %}
         </article>
