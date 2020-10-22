@@ -3,6 +3,7 @@ published: true
 title: JavaScript Projects (non React)
 layout: post
 category: project
+date: 2020-10-20
 ---
 
 This is a rough summary of the various web based projects that I have completed over the years. I have a passion for trying out whatever new technology is out there. Usually a new framework or library makes a previous project much more doable, and it's a good excuse to finish a project and learn something new.
