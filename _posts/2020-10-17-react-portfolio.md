@@ -47,7 +47,7 @@ Core features and front end details:
 - Automated reporting system which can export compiled charts to PDF
 - Novel approaches to exploring and investigating multivariate time series data
 
-To see details related to the C# backend, head over to the [C# Portfolio](/projects/c-sharp).
+To see details related to the C# backend, head over to the [C# Portfolio](/project/c-sharp).
 
 ## Interactive Hydraulic Schematic Tool (2020)
 
