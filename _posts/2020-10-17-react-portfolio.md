@@ -3,6 +3,7 @@ layout: post
 category: project
 published: true
 title: React Portfolio
+date: 2020-10-21
 ---
 
 I have been using React for the last 4 years for side projects and at work. This page summarizes all of the projects I've built using React. Over the last 4 years, I have progressed significantly in building React apps. My two "flagship" projects were built in the last 2 years working at Allison Transmission. Those include a data analysis platform and an interactive hydraulic schematic tool. Unfortunately, I can only describe those projects and not share sources. Other projects for personal interests include an offline Hacker News reader, a family recipe and cooking site, and an RSS reader for news sites.

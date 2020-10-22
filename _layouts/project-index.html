@@ -50,7 +50,7 @@
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
           <p>{{ post.modified }}</p>
-          <p>{{ page.date | date: '%B %d, %Y' }}</p>
+          <p>{{ post.date | date: '%B %d, %Y' }}</p>
           XXX test
         </article>
         {% endif %} {% endfor %}
