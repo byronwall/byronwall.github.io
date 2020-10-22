@@ -10,7 +10,7 @@ Personal site of Byron Wall, chemical engineer and programmer. This site catalog
 
 I am looking for a full time software job. Check out [my resume](/assets/resume_byron_wall.pdf) for my experience and skills.
 
-My major work is detailed in the [React](/project/react-portfolio/) and [C#](/project/c-sharp/) portfolios.
+My major work is detailed in the [**React Portfolio**](/project/react-portfolio/) and [**C# Portfolio**](/project/c-sharp/).
 
 For a quick look at a React project I made, check out the [HN Offline](https://hn.byroni.us) site or its [source on Github](https://github.com/byronwall/hn-client).
 

@@ -3,8 +3,8 @@
 - title: About Me
   url: /about/
 
+- title: Portfolio
+  url: /projects/
+
 - title: Blog
   url: /posts/
-
-- title: Projects
-  url: /projects/
