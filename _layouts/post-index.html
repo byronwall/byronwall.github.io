@@ -29,7 +29,6 @@
     <div id="main" role="main">
       <div class="article-author-side">{% include _author-bio.html %}</div>
       <div id="index">
-        <h1>{{ page.title }}</h1>
         {% for post in site.posts %} {% if post.category != 'project' %}
         <article>
           {% if post.link %}
