@@ -6,7 +6,7 @@ title: React Portfolio
 date: 2020-10-21
 ---
 
-I have been using React for the last 4 years for side projects and at work. This page summarizes all of the projects I've built using React. Over the last 4 years, I have progressed significantly in building React apps. My two "flagship" projects were built in the last 2 years working at Allison Transmission. Those include a data analysis platform and an interactive hydraulic schematic tool. Unfortunately, I can only describe those projects and not share sources. Other projects for personal interests include an offline Hacker News reader, a family recipe and cooking site, and an RSS reader for news sites.
+I have been using React for the last 4 years for side projects and at work. This page summarizes a sample of the projects I've built using React. Over the last 4 years, I have progressed significantly in building React apps. My two "flagship" projects were built in the last 2 years working at Allison Transmission. Those include a data analysis platform and an interactive hydraulic schematic tool. Unfortunately, I can only describe those projects and not share sources. Other projects for personal interests include an offline Hacker News reader, a family recipe and cooking site, and an RSS reader for news sites.
 
 My typical setup:
 
@@ -98,7 +98,7 @@ Check it out [live](https://news.byroni.us) or on [Github](https://github.com/by
 
 ## Task List (2017 - 2020)
 
-Every programmer has to create a task list app! This is mine. There is an incomplete v2 which is a port of the original v1 app. THe original was built with vanilla JS and without React using Electron. The second version was built with Typescript and React. The development experience is much nicer working on v2 with all the modern tooling and frameworks. Part way through v2 I realized there was not much reason to keep using Electron. At that point, I backed off development instead of removing Electron. I may at some point get this finished. Around the time I stopped development, I also changed how I was tracking tasks at work.
+Every programmer has to create a task list app! This is mine. There is an incomplete v2 which is a port of the original v1 app. The original was built with vanilla JS and without React using Electron. The second version was built with Typescript and React. The development experience is much nicer working on v2 with all the modern tooling and frameworks. Part way through v2 I realized there was not much reason to keep using Electron. At that point, I backed off development instead of removing Electron. I may at some point get this finished. Around the time I stopped development, I also changed how I was tracking tasks at work.
 
 Check it out on GitHub: [v1](https://github.com/byronwall/ElectronTasks) or [v2](https://github.com/byronwall/electron-tasks)
 
