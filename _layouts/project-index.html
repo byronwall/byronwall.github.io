@@ -49,6 +49,8 @@
           </h3>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
+          <p>{{ post.modified }}</p>
+          <p>{{ page.date | date: '%B %d, %Y' }}</p>
         </article>
         {% endif %} {% endfor %}
       </div>
