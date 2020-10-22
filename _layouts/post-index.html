@@ -47,9 +47,12 @@
               >{{ post.title }}</a
             >
           </h3>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+          <p>
+            {{ post.excerpt | strip_html | truncate: 160 }}
+            <br />
+            <span>{{ post.date | date: '%B %Y' }}</span>
+          </p>
           {% endif %}
-          <p>{{ post.date | date: '%B %Y' }}</p>
         </article>
         {% endif %} {% endfor %}
       </div>
