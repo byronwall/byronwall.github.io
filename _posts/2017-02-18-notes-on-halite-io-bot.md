@@ -67,7 +67,7 @@ There were a handful of things that were tried but did not end up in the final b
 
 #### Genetic algorithm to find the best starting path
 
-One approach to choose the starting path was a genetic algorithm. The goal was to get a path of squares to take that woudl maximize the future vlaue of the territory held. This approach worked OK, but it seemed to generally pick a path that did not appear optimal. I think the steps required to generate teh path did not give the bot enough time to actually optimize the path. There were only 15 seconds at the start of the game to do the heavy lifting.
+One approach to choose the starting path was a genetic algorithm. The goal was to get a path of squares to take that woudl maximize the future vlaue of the territory held. This approach worked OK, but it seemed to generally pick a path that did not appear optimal. I think the steps required to generate the path did not give the bot enough time to actually optimize the path. There were only 15 seconds at the start of the game to do the heavy lifting.
 
 #### Agent based model to attack
 
